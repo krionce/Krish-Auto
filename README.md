@@ -21,3 +21,18 @@ pip install aiohttp
 pip install faker
 pip install fake_email
 pip install fake_useragent
+````
+## RUN 🎬
+
+```bash
+cd
+clear
+git clone https://github.com/krionce/Krish-Auto.git
+cd Krish-Auto
+python auto.py
+```
+---
+
+## 📞 Contact Me
+💬 WhatsApp: https://wa.me/917499530975
+
